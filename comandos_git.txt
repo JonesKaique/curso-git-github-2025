@@ -16,4 +16,4 @@ git log > Mostra todo o histórico de commit
 8. git status
 9. Volta para o passo 3.
 
-foda-se 2
+
