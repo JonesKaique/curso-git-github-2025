@@ -6,7 +6,7 @@ git log > Mostra todo o histórico de commit
 
 
 ## FLUXO DE TRABALHO
-1. Criar o diretório do projeto
+1. Criar o diretório (pasta) do projeto
 2. Iniciar o git dentro do diretório criado (git init .)
 3. Edita ou cria arquivos
 4. git status
