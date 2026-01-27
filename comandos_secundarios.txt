@@ -10,3 +10,4 @@ Esse arquivo contém comandos secundários de git
 ffdsfsd
 fsdfsdf
 sdfds
+dasdas
