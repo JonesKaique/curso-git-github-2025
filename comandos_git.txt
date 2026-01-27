@@ -4,7 +4,10 @@ git add nome_arquivo > adiciona arquivo para ser commitado
 git commit -m "msg" > faz commit do que estava para ser commitado
 git log > Mostra todo o histórico de commit
 git diff <nome do arquivo> > Mostra as alterações que foram feitas no arquivo.
-git reset <nome do arquivo> > Volta o arquivo adicionado anteriormente no comando git add para o estado anterior.
+git reset <nome do arquivo> > Volta o arquivo adicionado anteriormente no comando (git add) para o estado anterior.
+git checkout -b <Nome da branche> > Cria uma nova branche com a cópia dos comites anteriores
+git checkout <Nome da branche> > navega entre branche
+git branche > sinaliza (em verde) em qual branche está
 
 
 ## FLUXO DE TRABALHO
