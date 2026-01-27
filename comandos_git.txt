@@ -8,7 +8,7 @@ git reset <nome do arquivo> > Volta o arquivo adicionado anteriormente no comand
 git checkout -b <Nome da branche> > Cria uma nova branche com a cópia dos comites anteriores
 git checkout <Nome da branche> > navega entre branche
 git branche > sinaliza (em verde) em qual branche está
-
+git merge <nome da branche> copia arquivos da branche referenciada
 
 ## FLUXO DE TRABALHO
 1. Criar o diretório (pasta) do projeto
