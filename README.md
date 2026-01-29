@@ -10,9 +10,11 @@ Um curso para iniciantes.
 
 
 
-Aprenderemos a trabalhar com versionamento de código  
+Aprenderemos a trabalhar com versionamento de código.
 
-e repositórios remotos com GitHub.
+
+
+E repositórios remotos com GitHub.
 
 
 
