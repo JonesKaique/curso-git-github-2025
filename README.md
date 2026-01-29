@@ -2,7 +2,7 @@
 
 
 
-Um curso para iniciantes 
+Um curso para iniciantes
 
 aprenderem a trabalhar com
 
@@ -14,11 +14,7 @@ repositórios remotos com GitHub.
 
 Além disso, vamos trabalhar com
 
-GitFlow ao final do curso e 
+GitFlow ao final do curso e
 
 Visual Studio Code.
-
-
-
-
 
