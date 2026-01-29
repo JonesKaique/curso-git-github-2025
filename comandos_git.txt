@@ -10,6 +10,7 @@ git checkout <Nome da branche> > navega entre branche
 git branche > sinaliza (em verde) em qual branche está
 git merge <nome da branche> copia arquivos da branche referenciada
 git branch -d <nome da branch> > deleta uma branche *obs. Eu não posso está logado na branch que irei excluir.
+Git push origin <branch: main> > Envia/Salva as últimas alterações do arquivo no GitHub 
 
 ## FLUXO DE TRABALHO
 1. Criar o diretório (pasta) do projeto
