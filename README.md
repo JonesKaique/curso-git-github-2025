@@ -6,25 +6,7 @@
 
 
 
-Um curso para iniciantes.
 
-
-
-Aprenderemos a trabalhar com versionamento de código.
-
-
-
-E repositórios remotos com GitHub.
-
-
-
-Além disso, vamos trabalhar com:
-
-
-
-\- GitFlow
-
-\- Visual Studio Code
 
 
 
