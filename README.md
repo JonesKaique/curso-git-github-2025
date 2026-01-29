@@ -2,6 +2,10 @@
 
 
 
+\## Vamos lá
+
+
+
 Um curso para iniciantes
 
 aprenderem a trabalhar com
@@ -21,6 +25,7 @@ Visual Studio Code.
 descricao
 
 
+
 okokokok
 
 novas linhas
@@ -28,3 +33,4 @@ novas linhas
 
 
 main
+
