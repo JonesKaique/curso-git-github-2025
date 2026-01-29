@@ -2,73 +2,27 @@
 
 
 
-
-
 \## Vamos lá
 
 
 
-
-
-Um curso para iniciantes
-
+Um curso para iniciantes.
 
 
 
+Aprenderemos a trabalhar com versionamento de código  
 
-aprenderem a trabalhar com
-
-
-
-
-
-versionamento de código e
+e repositórios remotos com GitHub.
 
 
 
-
-
-repositórios remotos com GitHub.
-
+Além disso, vamos trabalhar com:
 
 
 
+\- GitFlow
 
-Além disso, vamos trabalhar com
-
-
-
-
-
-GitFlow ao final do curso e
-
-
-
-
-
-Visual Studio Code.
-
-
-
-
-
-descricao
-
-
-
-okokokok
-
-
-
-
-
-novas linhas
-
-
-
-
-
-main
+\- Visual Studio Code
 
 
 
