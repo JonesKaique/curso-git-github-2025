@@ -4,13 +4,47 @@
 
 
 
-vamos agora corrigir tudo
-
-o que tem aqui.
+Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
 
 
 
-novos reflexo aqui.
+Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
-vamos todos aqui. u.u 
 
+
+Confira tudo o que temos no nosso Youtube. É grátis!
+
+
+
+\## Fluxo de trabalho Git local
+
+
+
+1. git checkout -b <nova-branch>
+2. cria ou atualiza arquivos
+3. git status
+4. git add arquivos
+5. git status
+6. git commit -m "minha mensagem"
+7. git checkout main
+8. git merge nova\_branch
+
+
+
+\## Fluxo de trabalho GitHub <> Local (Projeto próprio ou da sua empresa)
+
+
+
+1. Fork do projeto para o seu próprio github
+2. git clone <endereço do projeto>
+3. git checkout -b <nova-branch>
+4. alterações de arquivos
+5. git status
+6. git add \*arquivos\*
+7. git status
+8. git commit -m "nova mensagem"
+9. git push origin <nova-branch>
+10. abrir Pull request no GitHub da branch fork para a main do projeto original
+11. excluir <nova-branche> origin
+12. git checkout main
+13. git branch -d <nova-branch>
