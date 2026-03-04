@@ -17,6 +17,7 @@ que vai rolar em 2026.
 
 [teomewhy.org](https://teomewhy.org/schedule)
 
+Jones Kaique
 
 \## Fluxo de trabalho Git local
  
