@@ -20,7 +20,7 @@ que vai rolar em 2026.
 
 \## Fluxo de trabalho Git local
  
- 
+
 1. git checkout -b <nova-branch>
 2. cria ou atualiza arquivos
 3. git status
