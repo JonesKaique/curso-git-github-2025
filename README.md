@@ -20,7 +20,7 @@ que vai rolar em 2026.
 Além do nosso Youtube, se ligue no nosso site e agenda para ficar por dentro de tudo
 que vai rolar em 2025.
 
-[teomewhy]
+[teomewhy] -- Jones Kaique
 
 \## Fluxo de trabalho Git local
  
